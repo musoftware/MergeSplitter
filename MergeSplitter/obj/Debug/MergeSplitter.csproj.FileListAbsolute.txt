@@ -1,0 +1,9 @@
+c:\users\mu12\documents\visual studio 2013\Projects\MergeSplitter\MergeSplitter\obj\Debug\MergeSplitter.csprojResolveAssemblyReference.cache
+c:\users\mu12\documents\visual studio 2013\Projects\MergeSplitter\MergeSplitter\obj\Debug\MergeSplitter.Frmmain.resources
+c:\users\mu12\documents\visual studio 2013\Projects\MergeSplitter\MergeSplitter\obj\Debug\MergeSplitter.Properties.Resources.resources
+c:\users\mu12\documents\visual studio 2013\Projects\MergeSplitter\MergeSplitter\obj\Debug\MergeSplitter.csproj.GenerateResource.Cache
+c:\users\mu12\documents\visual studio 2013\Projects\MergeSplitter\MergeSplitter\bin\Debug\MergeSplitter.exe
+c:\users\mu12\documents\visual studio 2013\Projects\MergeSplitter\MergeSplitter\bin\Debug\MergeSplitter.pdb
+c:\users\mu12\documents\visual studio 2013\Projects\MergeSplitter\MergeSplitter\obj\Debug\MergeSplitter.exe
+c:\users\mu12\documents\visual studio 2013\Projects\MergeSplitter\MergeSplitter\obj\Debug\MergeSplitter.pdb
+c:\users\mu12\documents\visual studio 2013\Projects\MergeSplitter\MergeSplitter\bin\Debug\MergeSplitter.exe.config
