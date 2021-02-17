@@ -15,7 +15,7 @@ namespace MergeSplitter
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frmmain());
+            Application.Run(new FrmSpiltter());
         }
     }
 }

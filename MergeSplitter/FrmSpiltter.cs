@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace MergeSplitter
 {
-    public partial class Frmmain : Form
+    public partial class FrmSpiltter : Form
     {
-        public Frmmain()
+        public FrmSpiltter()
         {
             InitializeComponent();
         }

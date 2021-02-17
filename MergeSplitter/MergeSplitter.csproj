@@ -50,16 +50,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Frmmain.cs">
+    <Compile Include="FrmSpiltter.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Frmmain.Designer.cs">
-      <DependentUpon>Frmmain.cs</DependentUpon>
+    <Compile Include="FrmSpiltter.Designer.cs">
+      <DependentUpon>FrmSpiltter.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Frmmain.resx">
-      <DependentUpon>Frmmain.cs</DependentUpon>
+    <EmbeddedResource Include="FrmSpiltter.resx">
+      <DependentUpon>FrmSpiltter.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
